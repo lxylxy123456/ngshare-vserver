@@ -1,5 +1,5 @@
-# ngshare
-[nbgrader](https://github.com/jupyter/nbgrader) sharing service.
+# ngshare-vserver
+[nbgrader](https://github.com/jupyter/nbgrader) sharing service, vserver implementation.
 
 **This repo, [https://github.com/lxylxy123456/ngshare-vserver](https://github.com/lxylxy123456/ngshare-vserver), is for vserver. The repo ngshare is [https://github.com/lxylxy123456/ngshare](https://github.com/lxylxy123456/ngshare).**
 
