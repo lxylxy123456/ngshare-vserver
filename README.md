@@ -1,9 +1,12 @@
 # ngshare
 [nbgrader](https://github.com/jupyter/nbgrader) sharing service.
 
-**This service is under development. Use this at your own risk.**
+**This repo, [https://github.com/lxylxy123456/ngshare-vserver](https://github.com/lxylxy123456/ngshare-vserver), is for vserver. The repo ngshare is [https://github.com/lxylxy123456/ngshare](https://github.com/lxylxy123456/ngshare).**
 
 <img src="ngshare/favicon.png" width="64px" />
+
+## Migration info
+May 9, 2020: migrated vserver from [ngshare](https://github.com/lxylxy123456/ngshare) commit `346d568b832c480f7905f1b023f4cfbcaaca53f2` to this repo. The upstream development branch is at commit `9213751b8c8ad3a516c3239ffdaf04c657d817ae`, and it put in `ngshare` branch in this repo.
 
 ## What is ngshare?
 [ngshare](https://github.com/lxylxy123456/ngshare) is a backend server for
