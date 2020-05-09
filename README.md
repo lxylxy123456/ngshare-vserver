@@ -6,7 +6,9 @@
 <img src="ngshare/favicon.png" width="64px" />
 
 ## Migration info
-May 9, 2020: migrated vserver from [ngshare](https://github.com/lxylxy123456/ngshare) commit `346d568b832c480f7905f1b023f4cfbcaaca53f2` to this repo. The upstream development branch is at commit `9213751b8c8ad3a516c3239ffdaf04c657d817ae`, and it put in `ngshare` branch in this repo.
+May 9, 2020: migrated vserver from [ngshare](https://github.com/lxylxy123456/ngshare) commit 346d568b (Mar 13) to this repo. The upstream development branch is at commit 9213751b (May 7), and it put in `ngshare` branch in this repo.
+
+Note that vserver is not supported since Mar 7, 2020, though at this point (346d568b) it still passes all its tests. You may need to go commit 16aa8850 to see vserver at its EOL. 
 
 ## What is ngshare?
 [ngshare](https://github.com/lxylxy123456/ngshare) is a backend server for
